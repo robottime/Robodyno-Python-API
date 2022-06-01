@@ -1,5 +1,4 @@
 # robodyno-python-api
-> latest update: 2021/12/02
 ## Python安装方式
 ``` 
 cd src 
